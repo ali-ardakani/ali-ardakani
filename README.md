@@ -46,5 +46,3 @@ I'm a Software Sorcerer who crafts magic in the world of backend systems. You'll
 ## 😄 Pronouns
 
 - He/Him
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ali-ardakani&show_icons=true)

@@ -40,7 +40,7 @@ I'm a Software Sorcerer who crafts magic in the world of backend systems. You'll
 
 ## 💬 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ali-ardakani/)
+- LinkedIn: [ali-ardakani](https://www.linkedin.com/in/ali-ardakani/)
 - Email: aliardakani78@gmail.com
 
 ## 😄 Pronouns
